@@ -1,5 +1,5 @@
-# 🚀 Spec-1 - SVECTOR's Language Model 🤖
-
+# 🚀 Spec-1 - SVECTOR's Large Language Model 🤖
+<img src=spec 1_page-0001.jpg width="450px">
 Welcome to Spec-1, an advanced language model developed by SVECTOR. Spec-1 is designed to provide state-of-the-art language generation capabilities, allowing users to leverage powerful AI for various applications. This README serves as a guide to help you get started with Spec-1, whether you're a developer, researcher, or enthusiast.
 
 ## Table of Contents
