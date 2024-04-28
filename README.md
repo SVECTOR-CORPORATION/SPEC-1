@@ -1,6 +1,6 @@
-# 🚀 Spec-1 LL - SVECTOR's Language Model 🤖
+# 🚀 Spec-1 - SVECTOR's Language Model 🤖
 
-Welcome to Spec-1 LL, an advanced language model developed by SVECTOR. Spec-1 LL is designed to provide state-of-the-art language generation capabilities, allowing users to leverage powerful AI for various applications. This README serves as a guide to help you get started with Spec-1 LL, whether you're a developer, researcher, or enthusiast.
+Welcome to Spec-1, an advanced language model developed by SVECTOR. Spec-1 is designed to provide state-of-the-art language generation capabilities, allowing users to leverage powerful AI for various applications. This README serves as a guide to help you get started with Spec-1, whether you're a developer, researcher, or enthusiast.
 
 ## Table of Contents
 - [🔍 Overview](#overview)
@@ -14,7 +14,7 @@ Welcome to Spec-1 LL, an advanced language model developed by SVECTOR. Spec-1 LL
 
 ## 🔍 Overview
 
-Spec-1 LL represents a significant advancement in natural language processing. Built upon cutting-edge AI techniques, it offers unparalleled performance in text generation, understanding, and manipulation. This model is open-source, empowering developers worldwide to integrate it into their projects and explore its capabilities.
+Spec-1 represents a significant advancement in natural language processing. Built upon cutting-edge AI techniques, it offers unparalleled performance in text generation, understanding, and manipulation. This model is open-source, empowering developers worldwide to integrate it into their projects and explore its capabilities.
 
 ## ✨ Features
 
@@ -25,7 +25,7 @@ Spec-1 LL represents a significant advancement in natural language processing. B
 
 ## ⬇️ Installation
 
-To install Spec-1 LL, follow these steps:
+To install Spec-1, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
