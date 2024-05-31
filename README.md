@@ -1,4 +1,4 @@
-# 🚀 Spec-1 - SVECTOR's Large Language Model 🤖
+# 🚀 Spec-1 - SVECTOR's Large Language Model 
 <br>
 <img src="SPEC_1.jpg" width="450px style="display:block,margin-left:auto,margin-right:auto,border-radius:4rem""></img>
 <br>
