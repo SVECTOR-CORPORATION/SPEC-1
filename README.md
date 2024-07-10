@@ -2,7 +2,7 @@
   <h1>SPEC-1: Large Language Model (LLM) by SVECTOR</h1>
   <img src="SPEC_1.jpg" alt="SPEC-1" width="400">
 </div>
-
+<br><br>
 SPEC-1 is a Large Language Model (LLM) developed by SVECTOR Corporation in Gujarat, India. It stands out as a versatile and powerful open-source model designed to empower various AI-driven applications with its extensive generative capabilities.
 
 ## Overview
